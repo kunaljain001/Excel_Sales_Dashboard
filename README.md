@@ -1,5 +1,5 @@
 # Excel Sales Dashboard
-
+![Alt text](https://github.com/kunaljain001/Excel_Sales_Dashboard)
 ## About
 This project involves working with a dataset of Nike shoe sales to create an interactive dashboard using Excel. 
 
